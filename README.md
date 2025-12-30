@@ -69,4 +69,4 @@ Found a way to optimize the prompts? Want to add an RSS news-feed trigger? Contr
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-**Built with ☕ and Agents by [Your Name/Handle]**
+**Built with ☕ and Agents by NotShubham1112**
